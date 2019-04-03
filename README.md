@@ -1,7 +1,7 @@
 # 3-5inch_ili9481_tft_atmega328
-A bare-bones implementation to get going quickly. Very specifically only for driving a 3.5" ILI9481-based TFT display with an ATMega328 (no Arduino/AdaFruit/other libs or bootloader required), but should work for others with some modifications.
+A bare-bones implementation to get going quickly. Very specifically only for driving a 3.5" ILI9481-based TFT display with an ATMega328 (no Arduino/Adafruit/other libs or bootloader required), but should work for others with some modifications. Information taken directly from ILI9481 datasheet.
 
-**This is NOT an Arduino project!** It is written in C to be compiled directly into a `.hex` file by gcc-avr.
+**This is NOT an Arduino project!** It is written in C to be compiled directly into a `.hex` file by gcc-avr. This is not to say it's *incompatible* with Arduino, it's just that the Arduino libs are not necessary.
 
 With this simple implementation you can:
 - initialize the display and blank the screen
