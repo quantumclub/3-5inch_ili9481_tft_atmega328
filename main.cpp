@@ -215,17 +215,9 @@ void mainloop(void)
     uint16_t size = 3;
     uint16_t xoffset=25, yoffset = 65, step=70;
 
-    print_str("ROOIVALK",size,xoffset,yoffset,colr);
+    print_str("HELLO WORLD",size,xoffset,yoffset,colr);
     yoffset+=step;
-    print_str("COCKPIT",size,xoffset,yoffset,colr);
-    yoffset+=step;
-    print_str("SIMULATOR+",size,xoffset,yoffset,colr);
-    yoffset+=step;
-    print_str("133.0000",size,xoffset,yoffset,colr);
-    yoffset+=step;
-    print_str("00-00311",size,xoffset,yoffset,colr);
-    yoffset+=step;
-    print_str("132.2000",size,xoffset,yoffset,colr);
+    print_str("132.5643",size,xoffset,yoffset,colr);
     
 
     while (TRUE)
