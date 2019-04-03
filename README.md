@@ -4,7 +4,9 @@ A bare-bones implementation to get going quickly. Very specifically only for dri
 ## Download these files at own risk
 This has not even reached WIP stage, it's just a test commit. *This notice will be removed once things change.*
 
-Here's a picture:
+## 3.5" TFT Display (no touch) for Arduino UNO
+
+This is a fantastic little display (320x480), pretty easy to use and dirt cheap. Here's a picture:
 
 ![This is what I mean](3-5inchtftArduinoUNO.jpeg)
 
