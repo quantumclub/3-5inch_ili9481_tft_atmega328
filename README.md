@@ -17,3 +17,7 @@ This is a fantastic little display (320x480), pretty easy to use and dirt cheap.
 
 ![This is what I mean](3-5inchtftArduinoUNO.jpeg)
 
+# So that you know
+
+I love my wife!
+
